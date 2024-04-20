@@ -12,7 +12,7 @@ bloco, produz um hash final que segue uma regra específica. No caso do bitcoin,
 Possuimos duas aplicacao que realizam a mesma tarefa, utilizando os mesmos recursos. A diferenca esta que uma possui a divisao de multi-tarefas por thread, enquanto a outra centraliza tudo na thread principal, como comumente e feito no Node.js
 
 ## O que executar?
-No terminal, execute o ```inode ndex.js``` para executar a tarefa usando threads e ```node withoutWorkerThread.js``` para realizar a tarefa somente na thread principal.
+No terminal, execute o ```node index.js``` para executar a tarefa usando threads e ```node withoutWorkerThread.js``` para realizar a tarefa somente na thread principal.
 
 ## O que "aquilo" significa?
 

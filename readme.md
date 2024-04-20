@@ -1,4 +1,3 @@
-
 # Worker Threads Node.js
 Esse e um exemplo de otimizacao de tempo de execucao e recursos utilizando multiplas threads com node.js
 
@@ -28,15 +27,16 @@ Aqui esta uma descricao do objeto retornado no console:
 **external:** Esta é a quantidade de memória utilizada por buffers de memória que são parte do heap do processo, mas que estão fora da gestão automática de memória do JavaScript. Isso geralmente inclui objetos como buffers de memória usados pelo módulo Buffer do Node.js ou outros objetos que fazem uso de memória diretamente do sistema operacional.
 
 Alem das informacoes sobre memoria, tambem e exibido o tempo de conclusao da tarefa em segundos.
+![Capturar](https://github.com/ysh-rael/workerThread-Node.Js/assets/79410863/cec0935b-806d-4369-88e4-162a8255dd80)
 
 <br>
 <br>
-<br>
 
->   .
->   :date: Atualizado em 19.04.2024
->   :penguin:  **Ysh-rael** | _ysp.rael@gmail.com_
->   .
+:date: Atualizado em 19.04.2024
+
+:penguin:  **Ysh-rael** | _ysp.rael@gmail.com_
+
+
 
 
 
